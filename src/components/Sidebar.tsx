@@ -1,19 +1,17 @@
 import {
-    Drawer,
-    DrawerBody,
-    DrawerFooter,
-    DrawerHeader,
-    DrawerOverlay,
-    DrawerContent,
-    DrawerCloseButton,
-    Button,
-    Input,
-    useDisclosure,
-    Image,
-    Box,
-    Text,
-    Divider,
-} from '@chakra-ui/react'
+  Box,
+  Button,
+  Divider,
+  Drawer,
+  DrawerBody,
+  DrawerCloseButton,
+  DrawerContent,
+  DrawerHeader,
+  DrawerOverlay,
+  Image,
+  Text,
+  useDisclosure
+} from '@chakra-ui/react';
 import { IoMenu } from "react-icons/io5";
 
 const Sidebar = () => {

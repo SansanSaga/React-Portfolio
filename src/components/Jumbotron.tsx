@@ -1,4 +1,4 @@
-import { Box, Container, Flex, Grid, GridItem, Image, Text } from "@chakra-ui/react"
+import { Box, Flex, Grid, GridItem, Image, Text } from "@chakra-ui/react"
 
 const Jumbotron = () => {
   return (
